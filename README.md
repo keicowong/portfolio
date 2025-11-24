@@ -1,13 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFC1E3&height=180&section=header&text=Kei%20Cowong&fontSize=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Keicowong&fontSize=90&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://github.com/keicowong/portfolio/raw/main/public/images/profile.jpg" width="180" style="border-radius:50%">
-
-  <h2>嗨！我是 Kei</h2>
-  <p>香港視覺設計學生｜日系・手繪・攝影</p>
-
-  <a href="https://instagram.com/你的ig"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://behance.net/你的behance"><img src="https://img.shields.io/badge/behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
-
-  <p><img src="https://komarev.com/ghpvc/?username=keicowong&color=pink&style=flat-square"></p>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150">
+  <h3>Visual Designer | Hong Kong</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00FF00&center=true&vCenter=true&lines=UI%2FUX+%26+Illustration;Always+learning+new+things">
 </div>
